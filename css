@@ -1,20 +1,21 @@
 .black {
+  padding-top:8%;
     border: 1px solid rgb(226, 226, 226);
     background-color: black;
-    width: 100px;
-    height: 100px;
+    width: 100%;
 }
 
 .orange {
+  padding-top:8%;
     border: 1px solid rgb(226, 226, 226);
     background-color: orange;
-    width: 100px;
-    height: 100px;
+    width: 100%;
 }
 
 .yellow {
+  padding-top:8%;
     border: 1px solid rgb(226, 226, 226);
     background-color: yellow;
-    width: 100px;
-    height: 100px;
+    width: 100%;
 }
+
